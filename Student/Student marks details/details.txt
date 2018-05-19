@@ -1,0 +1,5 @@
+// these new heads are made because previous .php heads will not work with side bar in this page
+swhead.php = student welcome head.php
+swheader.php = student welcome header.php
+swfooter.php = student welcome footer.php
+
